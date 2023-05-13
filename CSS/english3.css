@@ -128,3 +128,28 @@ p{
     font-size: 18px;
     font-family: 'Open Sans';
 }
+.one{
+    position:absolute;
+    top: 130px;
+    margin-left: -34px;
+}
+.four{
+    position:absolute;
+    margin-left: -34px;
+    margin-top: -3px;
+}
+.two{
+    position:absolute;
+    margin-left: -38px;
+    margin-top: -7px;  
+}
+.three{
+    position:absolute;
+    margin-left: -35px;
+    margin-top: -5px;   
+}
+.five{
+    position:absolute;
+    margin-left: -35px;
+    margin-top: -5px; 
+}
