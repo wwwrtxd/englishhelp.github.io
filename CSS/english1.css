@@ -49,6 +49,8 @@ h1{
     font-family: 'Open Sans';
     font-size: 48px;
     font-weight: normal;
+    margin: auto;
+    margin-top: 17%;
 }
 p{
     text-align: center;
